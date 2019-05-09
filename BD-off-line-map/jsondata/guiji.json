@@ -1,0 +1,17 @@
+{
+	"code":1,
+	"data":[
+		{"longitude":118.548581, "latitude":24.8716},
+		{"longitude":118.548442, "latitude":24.871231},
+		{"longitude":118.545572, "latitude":24.872116},
+		{"longitude":118.545055, "latitude":24.872424},
+		{"longitude":118.542405, "latitude":24.874882},
+		{"longitude":118.544844, "latitude":24.875571},
+		{"longitude":118.551882, "latitude":24.876763},
+		{"longitude":118.553558, "latitude":24.877128},
+		{"longitude":118.555273, "latitude":24.877882},
+		{"longitude":118.556863, "latitude":24.879},
+		{"longitude":118.558902, "latitude":24.881103},
+		{"longitude":118.55716, "latitude":24.8842}
+	]
+}
