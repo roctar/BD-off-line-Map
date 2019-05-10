@@ -9,3 +9,5 @@ http://lbsyun.baidu.com/cms/jsapi/reference/jsapi_reference_3_0.html#a0b0
 
 离线地图瓦片下载器：
 https://github.com/roctar/BaiDuMapDownload
+
+地图瓦片资源请按缩放等级放置于maptile下
